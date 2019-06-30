@@ -1,1 +1,1 @@
-# snips-template-py3
+for Python 3
