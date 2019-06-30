@@ -1,1 +1,1 @@
-for Python 3
+Python 3 based Snips template (not tested, but likely works)
